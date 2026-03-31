@@ -32,7 +32,7 @@
 ## API Base URL
 ```
 # Local Development
-http://localhost/swiftpick-api/api
+******************
 
 # Azure Production
 ***********************
