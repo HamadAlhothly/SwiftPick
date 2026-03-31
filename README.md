@@ -25,9 +25,9 @@
    - `JWT_SECRET` — for token signing
 4. **Test**: Visit `http://localhost/swiftpick-api/api`
 
-## Default Admin
-- **Email**: `admin@swiftpick.com`
-- **Password**: `Admin@123`
+## Admin
+- **Email**: `******`
+- **Password**: `*******`
 
 ## API Base URL
 ```
@@ -35,7 +35,7 @@
 http://localhost/swiftpick-api/api
 
 # Azure Production
-https://swiftpick-api.azurewebsites.net/api
+***********************
 ```
 
 ## Authentication
